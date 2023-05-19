@@ -4,7 +4,7 @@
 ![q0](https://github.com/yeronge/baeminDelivery/assets/114388258/dc618171-2518-40b3-bc86-32e43d8218e2)
 
 2. Saga (Pub / Sub) 확인
-![q2](https://github.com/yeronge/baeminDelivery/assets/114388258/69dc2408-f05e-4e5e-9efa-2690d8183632)
+![q1](https://github.com/yeronge/baeminDelivery/assets/114388258/e54b28e0-2cb7-4bc5-bea0-f43d662aec7d)
 
 3. Service Router 설치
 ![q2-5](https://github.com/yeronge/baeminDelivery/assets/114388258/a1b4f85a-0d60-48cb-ab87-767c74bef00a)
